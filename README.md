@@ -16,7 +16,9 @@ Uma embarcadora vai ter N funcionários, que podem criar ofertas no sistema.
 
 uma oferta precisa ter um endereço de coleta, e um endereço de entrega, assim como um produto a ser transportado e qual quantidade desse produto está disponível.
 
-Assim que criada, essa oferta vai aparecer para os funcionários das transportadoras afiliadas à embarcadora que a criou. Uma embarcadora pode ter N transportadoras vinculadas, assim como uma transportadora pode ser vinculada a N embarcadoras.
+Assim que criada, essa oferta vai aparecer para os funcionários das transportadoras afiliadas à embarcadora que a criou. 
+
+Uma embarcadora pode ter N transportadoras vinculadas, assim como uma transportadora pode ser vinculada a N embarcadoras.
 
 Esses funcionários podem dar lances nessa oferta, dizendo qual quantia podem transportar, e quanto cobram por essa quantia.
 
